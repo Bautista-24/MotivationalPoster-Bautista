@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+
+.pic {
+    text-align: center;
+    border-style: groove;
+    border-color: aliceblue;
+    padding: 4px;
+    width: 700px;
+    margin: auto;
+}
+    
+.title {
+    text-align: center;
+    color: rgb(139, 139, 138);
+    font-family: fantasy;
+    font-size: larger;
+}
+
+.paragraph {
+    text-align: center;
+    color: aliceblue;
+    font-family: fantasy;
+    font-size: larger;
+}
